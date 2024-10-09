@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-name="REC TV" tvg-language="Turkish" 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cdn.srectv1.xyz
+https://cdn.srectv1.xyz/live/bs1/index.m3u8
